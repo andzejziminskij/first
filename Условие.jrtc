@@ -2,7 +2,7 @@ taskKey="com.javarush.task.task26.task2613.big15"\n\nCashMachine (15)
 
 1. В CashMachine создай константу - путь к ресурсам.
 public static final String RESOURCE_PATH;
-Отрефакторь загрузку всех ResourceBundle с учетом RESOURCE_PATH.
+Отрефакторь загрузку всех ResourceBundle с учетом RESOURCE_PATH.asasd
 
 2. В классе CashMachine не должно быть инициализации ResourceBundle.
 Вынеси из CashMachine сообщение о выходе в ConsoleHelper, назови метод printExitMessage.
